@@ -1,8 +1,0 @@
-*.exe 
-*.zip 
-build/ 
-dist/ 
-dist_new/ 
-__pycache__/ 
-.idea/ 
-results/ 
